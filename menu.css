@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    display: flex;
+  justify-content: center; 
+  align-items: center;     
+  min-height: 100vh;       
+  margin: 0;
+  background-image: url(phot.png);
+  background-size: cover;
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+width: 300px;
+height: 50px;
+border-radius: 20px;
+position: relative;
+top: 150px;
+}
